@@ -1,0 +1,14 @@
+### Canadian Army DC Bot ###
+
+# Java
+*.class
+*.jar
+
+
+# IntelliJ
+*.iws
+/.idea
+/out/
+
+# Token & Stuff
+src/main/resources/token
